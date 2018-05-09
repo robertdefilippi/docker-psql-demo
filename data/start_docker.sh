@@ -1,5 +1,8 @@
 # Shell script for starting postgres envrionment
 
+# If using psql add it to you path
+# export PATH="/Applications/Postgres.app/Contents/Versions/9.5/bin:$PATH"
+
 # Replace "/Users/robert/Desktop" with the full path to your directory
 
 # Run the postgres image
